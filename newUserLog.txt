@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-21T04:32:16.091530800Z</date>
+  <millis>1621571536091</millis>
+  <nanos>530800</nanos>
+  <sequence>1</sequence>
+  <logger>texteditor.NewUser</logger>
+  <level>SEVERE</level>
+  <class>texteditor.NewUser</class>
+  <method>btnSubmitMouseClicked</method>
+  <thread>19</thread>
+  <message>Valid user</message>
+</record>
+</log>
